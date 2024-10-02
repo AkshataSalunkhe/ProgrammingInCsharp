@@ -8,19 +8,19 @@ namespace DataStructures.Dictionaries
         public static void RunExample()
         {
             // 1. Dictionary Declaration and Initialization
-            DictionaryDeclarationInitialization();
+            // DictionaryDeclarationInitialization();
 
             // 2. Adding, Removing, and Updating Elements
-            AddRemoveUpdateElements();
+            //AddRemoveUpdateElements();
 
             // 3. Key-Based Lookup (TryGetValue)
             KeyBasedLookup();
 
             // 4. Iterating Through Dictionaries (foreach)
-            DictionaryIteration();
+            // DictionaryIteration();
 
             // 5. Dictionary Performance Considerations
-            PerformanceConsiderations();
+            // PerformanceConsiderations();
 
             Console.WriteLine("\n-- Dictionary Operations Examples Completed --");
         }
